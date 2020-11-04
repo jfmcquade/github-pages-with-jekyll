@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Johnny McQuade
 
-I'm glad you are here. I plan to talk about ...
+Data Engineer and Graphic Designer
